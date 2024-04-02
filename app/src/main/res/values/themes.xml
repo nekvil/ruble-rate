@@ -51,6 +51,9 @@
         <item name="differencePositiveColor">@color/difference_positive_light</item>
         <!-- Color for negative difference in light theme -->
         <item name="differenceNegativeColor">@color/difference_negative_light</item>
+
+        <!-- Navigation bar color -->
+        <item name="android:navigationBarColor">@android:color/transparent</item>
     </style>
 
     <!-- Splash theme -->
