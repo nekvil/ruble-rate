@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Resource file defining custom attributes -->
+<resources>
+    <!-- Attribute for specifying color of positive difference -->
+    <attr name="differencePositiveColor" format="reference|color" />
+    <!-- Attribute for specifying color of negative difference -->
+    <attr name="differenceNegativeColor" format="reference|color" />
+</resources>
